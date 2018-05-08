@@ -231,3 +231,8 @@ vendor/bin/codecept run functional,unit -- --coverage-html --coverage-xml
 ```
 
 You can see code coverage output under the `tests/_output` directory.
+
+
+
+https://www.yiiframework.com/doc/guide/2.0/ru/start-installation
+https://www.cloudways.com/blog/rest-api-yii2/
